@@ -19,4 +19,13 @@ var objekat = {
     druga() { console.log("Ovo je poziv druge metode"); },
     treca() { console.log("Ovo je poziv trece metode"); }
 }
+cvxvcx
+c
+cx
+cxv
+cx
+x
+cx
+v
+vv
 
